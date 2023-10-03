@@ -1,0 +1,184 @@
+html {
+    background: url(/images/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+img {
+    border: 3px solid rgb(61, 87, 1);
+    float:left;
+    margin: 10px ; 
+}
+
+/*Заголовок*/
+header {
+    background-color: rgb(247, 238, 199, 0.9);
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:  rgb(3, 161, 82);
+}
+
+/*Навигация*/
+nav {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(3, 161, 82);
+    height: 30px;
+    padding: 5px 0px;
+    display:flex;
+    
+}
+
+.navigation{
+    width: 50%;
+    font-size: 20pt;
+    font-weight: bolder;
+    text-shadow: 3px 3px 3px #000000;
+    padding-left: 10px;
+    align-self:center;
+
+}
+
+.entrance {
+    width: 50%;
+    font-size: 12pt;
+    color: rgb(255, 255, 255);
+    align-self:center;
+    text-align: right;
+    padding-right: 10px;
+}
+
+a{
+    margin: 5px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    color: rgb(84, 247, 92);
+}
+
+/*персональное предложение*/
+.personal_offer{
+    width: 80%;
+    margin: 15px auto;
+    font-size: 16pt;
+    position: relative;
+    text-align: center;  
+}
+.stock{
+    border: 1px solid black;
+    background-color: rgb(198, 248, 82);
+    padding: 15px;
+}
+
+/*основной раздел*/
+main {
+    background-color: rgb(247, 238, 199, 0.9);
+    width: 80%;
+    margin: 15px auto;
+    font-size: 16pt;
+    position: relative;
+    text-align: center;
+}
+
+.info {
+    padding: 20px;
+    width: auto;
+    text-align: left;
+}
+
+.product {
+    display: inline;
+    
+}
+
+h2 {
+    border: 3px solid rgb(61, 87, 1);
+    color: rgb(97, 99, 2);
+    width: auto;
+
+}
+
+h3 {
+    color: rgb(2, 99, 18); 
+}
+
+.services {
+    width: 45%;
+    height:390px; 
+    background-color: rgb(124, 250, 152);
+    border: 1px solid #ffffff;
+    margin: 15px; 
+    display: inline-flex;
+}
+
+
+.price{
+    color: red;
+    font-weight: bolder;
+}
+
+/*подвал*/
+footer {
+    color: rgb(255, 255, 255);
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Форма для авторизации */
+
+.enter {
+    width: 30%;
+    height: 200px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: rgb(186, 250, 202,0.8);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-size: 20pt;
+    
+}
+
+.logpas {
+    text-align: right;
+    color:  rgb(2, 83, 42);
+}
+
+.input_data{
+    margin: 10px;
+}
+
+.input_data input{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.entry input {
+    width: 130px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(3, 161, 82);
+    font-size: 16pt;
+}
+
+.entry input:hover{
+    
+    color:  rgb(255, 255, 255);
+}

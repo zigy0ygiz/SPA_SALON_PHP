@@ -1,0 +1,1 @@
+{"admin":{"password":"$2y$10$1RXSbkK.0lxW0IkPKz83q.sYVD.Iudwe1Y\/8wIB.M93wZ0C4xO03e"},"mari1987":{"password":"$2y$10$1RXSbkK.0lxW0IkPKz83q.sYVD.Iudwe1Y\/8wIB.M93wZ0C4xO03e"},"sohya1999":{"password":"$2y$10$1RXSbkK.0lxW0IkPKz83q.sYVD.Iudwe1Y\/8wIB.M93wZ0C4xO03e"},"andrey1993":{"password":"$2y$10$1RXSbkK.0lxW0IkPKz83q.sYVD.Iudwe1Y\/8wIB.M93wZ0C4xO03e"}}
